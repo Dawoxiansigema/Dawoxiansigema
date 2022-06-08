@@ -1,3 +1,4 @@
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
 <h3 align="center">
   Welcome to Xu Haoxiang's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
