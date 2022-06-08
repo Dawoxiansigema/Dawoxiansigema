@@ -16,6 +16,7 @@
 
 ## 📫 How to reach me?
 - My personal blog - https://meowers.ltd
+- My wechat account - xhx20001224
 - My email account - 2071970042@qq.com
 
 ## 📊 Github stats
