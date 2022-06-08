@@ -25,13 +25,6 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/8) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-2. 💪 Opened PR [#8](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/8) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-3. 🎉 Merged PR [#7](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/7) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-4. 💪 Opened PR [#7](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/7) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-5. 🎉 Merged PR [#6](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/6) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-<!--END_SECTION:activity-->
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
