@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Shuasunba-critital?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dajiao-important?style=for-the-badge" />
 </p>
+- A student in CPPU
+- Delicated to be **ZHIHUI**
 
 ## 📫 How to reach me?
 - My personal blog - https://meowers.ltd
