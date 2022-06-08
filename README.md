@@ -15,6 +15,8 @@
 </p>
 
 ## ⚡ What can i do?
+- A student in CPPU
+- Delicated to be ZHIHUI
 <p align="center"> 
   <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ctf-red?style=for-the-badge" />
@@ -24,8 +26,6 @@
   <img src="https://img.shields.io/badge/Shuasunba-critital?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dajiao-important?style=for-the-badge" />
 </p>
-- A student in CPPU
-- Delicated to be ZHIHUI
 
 ## 📫 How to reach me?
 - My personal blog - https://meowers.ltd
