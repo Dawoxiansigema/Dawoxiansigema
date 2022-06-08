@@ -1,8 +1,7 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawoxiansigema&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoxiansigema&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <!--
 **Dawoxiansigema/Dawoxiansigema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
