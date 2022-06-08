@@ -15,7 +15,7 @@
 </p>
 
 ## 📫 How to reach me?
-- [My personal blog](https://meowers.ltd/) 
+- My personal blog - 'https://meowers.ltd'
 - My email account - 2071970042@qq.com
 
 ## 📊 Github stats
