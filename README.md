@@ -17,7 +17,7 @@
 ## ⚡ About me
 - A student in CPPU
 - Delicated to be ZHIHUI
-- Desire to have sun ba huang pai
+- Desire to have a sun ba huang pai
 - A xiao di of haogod and mastershi
 - I want to be an Autobot My grandparents are so happy that they gave me my favorite big mouth
 
