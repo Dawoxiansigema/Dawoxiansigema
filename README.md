@@ -16,7 +16,9 @@
 
 ## ⚡ What can i do?
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge&logo=Linux" />
+  <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ctf-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gym-blue?style=for-the-badge" />
 </p>
 
 ## 📫 How to reach me?
