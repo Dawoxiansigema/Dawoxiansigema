@@ -14,6 +14,11 @@
   <img src="https://profile-counter.glitch.me/dawoxiansigema/count.svg" />
 </p>
 
+## ⚡ What can i do?
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Linux-Forensic-important?style=for-the-badge&logo=Linux" />
+</p>
+
 ## 📫 How to reach me?
 - My personal blog - https://meowers.ltd
 - My wechat account - xhx20001224
