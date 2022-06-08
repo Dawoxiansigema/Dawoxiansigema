@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Dajiao-important?style=for-the-badge" />
 </p>
 - A student in CPPU
-- Delicated to be **ZHIHUI**
+- Delicated to be ZHIHUI
 
 ## 📫 How to reach me?
 - My personal blog - https://meowers.ltd
