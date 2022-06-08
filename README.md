@@ -15,7 +15,7 @@
 </p>
 
 ## ⚡ What can i do?
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge&logo=Linux" />
 </p>
 
