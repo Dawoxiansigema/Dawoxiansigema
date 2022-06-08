@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ctf-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gym-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hexo-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pingpong-yellow?style=for-the-badge" />
 </p>
 
 ## 📫 How to reach me?
