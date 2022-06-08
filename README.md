@@ -14,7 +14,7 @@
   <img src="https://profile-counter.glitch.me/dawoxiansigema/count.svg" />
 </p>
 
-## ⚡ What can i do?
+## ⚡ About me
 - A student in CPPU
 - Delicated to be ZHIHUI
 - Desire to have sun ba huang pai
