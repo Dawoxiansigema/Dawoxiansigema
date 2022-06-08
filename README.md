@@ -1,19 +1,4 @@
-<div align="center">
-
-[![][logo-url]][repo-url]  
-
-**Tailwind CSS Components**  
-[ [See repo ↗︎][repo-url] ]
-  
-
-</div>
-
-[![][banner-url]][repo-url]  
-
-
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
-[repo-url]: https://github.com/saadeghi/daisyui
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+![](https://cdn.jsdelivr.net/gh/Dawoxiansigema/blog@1.4/images/indexbg/index-bg.jpg)
 
 <h3 align="center">
   Welcome to Xu Haoxiang's profile!
