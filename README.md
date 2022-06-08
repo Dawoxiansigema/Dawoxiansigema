@@ -17,6 +17,10 @@
 ## ⚡ What can i do?
 - A student in CPPU
 - Delicated to be ZHIHUI
+- Desire to have sun ba huang pai
+- A xiao di of haogod and mastershi
+- I want to be an Autobot My grandparents are so happy that they gave me my favorite big mouth
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Forensic-important?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ctf-red?style=for-the-badge" />
